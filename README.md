@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kento Kitasuga</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Kento Kitasuga</h1>
 <h3 align="center">Data Science Student / Passionate About Data Analysis</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knt-ktsg" alt="knt-ktsg" /></a> </p>
