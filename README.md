@@ -3,7 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knt-ktsg" alt="knt-ktsg" /></a> </p>
 
-- 📄 Know about my experiences [Google Drive Resume Link](https://drive.google.com/file/d/1B8TWgSObjh5JYR-2goW79IDUguCw5yKA/view?usp=sharing)
+### 👀 About me:
+
+- 😁 My pronouns: **He/Him**
+
+- 🌱 I’m currently learning: **Machine Learning**
+
+- 📄 Know about my experiences: [Google Drive Resume Link](https://drive.google.com/file/d/1B8TWgSObjh5JYR-2goW79IDUguCw5yKA/view?usp=sharing)
+
+- ⚡ Fun fact: **Sports enthusiast, especially baseball**
 
 ### 📫 How to reach me:
 <p align="left">
